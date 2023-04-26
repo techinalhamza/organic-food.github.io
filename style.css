@@ -94,7 +94,8 @@
  .header .logo {
      font-size: 2.5rem;
      font-weight: bolder;
- }
+     font-family: 'Dancing Script',          cursive; 
+}
 
  .header .logo i {
      color: var(--green);

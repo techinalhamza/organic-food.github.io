@@ -74,7 +74,9 @@
      background: var(--green);
      color: #fff;
  }
-
+.container{
+ width:100%;
+ height:max-contant;
  .header {
      position: fixed;
      top: 0;

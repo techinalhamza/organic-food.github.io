@@ -95,8 +95,8 @@
 
  .header .logo {
      font-size: 2.5rem;
-     font-weight: bolder;
-     font-family: 'Dancing Script',          cursive; 
+     font-weight: 900;
+     font-family: 'Dancing Script',cursive; 
 }
 
  .header .logo i {
